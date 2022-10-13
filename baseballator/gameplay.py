@@ -3,9 +3,6 @@ from numpy import log2
 from tabulate import tabulate
 from baseballator.utils import * 
 
-__pdoc__['randint'] = False
-__pdoc__['random'] = False
-
 class Team():
 	'''
 	A class used to represent a team
