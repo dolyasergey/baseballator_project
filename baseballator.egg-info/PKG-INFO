@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: baseballator
+Version: 0.1.0
+Summary: Baseball Simulator based on probabilitites
+Home-page: https://github.com/dolyasergey/baseballator_project
+Author: Sergio Dolia
+Author-email: sergei.s.dolia@gmail.com
+License: UNKNOWN
+Description: # baseballator_project
+        Baseball Simulator based on probabilitites
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
