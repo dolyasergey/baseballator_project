@@ -9,6 +9,7 @@ setuptools.setup(
     description='Baseball Simulator based on probabilitites',
     long_description=open('README.md').read(),
     packages=setuptools.find_packages(),
+    package_dir={'': '/Users/dolyasergey/My Files/Sport Stats/baseball/baseballator_project/baseballator'},
     install_requires=[],
     classifiers=[
         'Programming Language :: Python',
@@ -16,5 +17,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.6',
     ],
     include_package_data=True,
-    package_data={'': ['data/*.csv']},
+    package_data={'' :['data/*']},
 )

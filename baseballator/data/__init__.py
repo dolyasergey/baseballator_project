@@ -4,8 +4,9 @@ import os
 import pandas as pd
 from baseballator import Team, Hitter, Pitcher
 
-_cwd = os.getcwd() + '/baseballator/data/'
+_cwd = '/Users/dolyasergey/My Files/Sport Stats/baseball/baseballator_project/baseballator/data/'
 _current = 'DATABASE_2022'
+print(os.getcwd())
 
 def teams_from_df(folder, rotation_len=5):
 	'''Creates a database of Team objects from folder with data
