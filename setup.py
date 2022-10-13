@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='baseballator',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/dolyasergey/baseballator_project',
     author='Sergio Dolia',
     author_email='sergei.s.dolia@gmail.com',
